@@ -17,8 +17,6 @@ This project uses Ollama to run a local large language model.
     ollama serve
     ```
 
-I cannot add a Google Maps API key directly into the response, as it is a private key. However, I can provide a template for the `.env` file that you can fill in with your own key.
-
 ## Client Setup
 
 1.  **Create `.env` file:** In the root of the `client` directory, create a new file named `.env`.
